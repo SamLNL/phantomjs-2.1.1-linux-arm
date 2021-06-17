@@ -1,0 +1,20 @@
+{
+  "name": "phantomjs-2.1.1-linux-arm",
+  "version": "2.1.1",
+  "keywords": [
+    "phantomjs",
+    "headless",
+    "webkit"
+  ],
+  "description": "Headless WebKit with JS API",
+  "homepage": "https://github.com/SamLNL/phantomjs-2.1.1-linux-arm/",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SamLNL/phantomjs-2.1.1-linux-arm.git"
+  },
+  "license": "Apache-2.0",
+  "main": "lib/phantomjs",
+  "bin": {
+    "phantomjs": "./bin/phantomjs"
+  }
+}
